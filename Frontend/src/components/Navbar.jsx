@@ -22,7 +22,7 @@ export default function Navbar() {
         className="text-red-600 text-xl font-bold tracking-wide"
         onClick={() => setMenuOpen(false)}
       >
-        Khelo FF
+        Lets Play
       </Link>
 
       {/* 💻 Desktop Menu */}
